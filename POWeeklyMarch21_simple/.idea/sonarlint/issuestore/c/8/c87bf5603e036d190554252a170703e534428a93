@@ -1,0 +1,45 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+8
+java:S23864"Make this member "protected".(×í°İıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ù—™„
+V	java:S125 "<This block of commented-out lines of code should be removed.(Ê–ƒüÿÿÿÿÿ
+<
+java:S2185%"&Remove this silly call to "Math.floor"(ğÏ›
+A
+java:S2185'"&Remove this silly call to "Math.floor"(Ç¢í§üÿÿÿÿ
+A
+java:S2185'"&Remove this silly call to "Math.floor"(Ç¢í§üÿÿÿÿ
+V	java:S125E"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(öª‡©
+V	java:S125K"<This block of commented-out lines of code should be removed.(Ãª¿ßûÿÿÿÿ
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(×í°İıÿÿÿÿ
+|
+java:S13194"aThe type of "p" should be an interface such as "List" rather than the implementation "ArrayList".(×í°İıÿÿÿÿ
+†
+java:S13195"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÙïÃ¬
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Õóáùÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Õóáùÿÿÿÿ
+k	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôù“Õøÿÿÿÿ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Œ§Õøÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(ÿ×›Œ
+h
+java:S11044"MMake p a static final constant or non-public and provide accessors if needed.(×í°İıÿÿÿÿ
+B
+java:S14444"'Make this "public static p" field final(×í°İıÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’ö·Òüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+X
+java:S2184%"BCast one of the operands of this division operation to a "double".(ğÏ›
+]
+java:S2184'"BCast one of the operands of this division operation to a "double".(Ç¢í§üÿÿÿÿ
+]
+java:S2184'"BCast one of the operands of this division operation to a "double".(Ç¢í§üÿÿÿÿ

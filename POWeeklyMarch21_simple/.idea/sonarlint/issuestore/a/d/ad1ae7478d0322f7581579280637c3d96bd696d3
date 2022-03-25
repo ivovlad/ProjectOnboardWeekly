@@ -1,0 +1,34 @@
+
+E
+java:S1197"*Move the array designators [] to the type.(´Ñ”ªûÿÿÿÿ
+@
+java:S1197"*Move the array designators [] to the type.(­íì§
+>
+java:S1905"(Remove this unnecessary cast to "int[]".(ö”…
+>
+java:S1905"(Remove this unnecessary cast to "int[]".(Şı¹
+1
+java:S3626,"Remove this redundant jump.(ûÁİ…
+M	java:S106"9Replace this use of System.out or System.err by a logger.(İËL
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(á´¡À
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(á´¡À
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(á´¡À
+V	java:S125F"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(ñ±™Œ
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(á´¡À
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(¦”†ñ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(¿³€·
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(¿³€·
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(¿³€·
+N	java:S106x"9Replace this use of System.out or System.err by a logger.(²ÙªŞ
+]	java:S125s"<This block of commented-out lines of code should be removed.(ëÏ”ÿÿÿÿÿ8¾Ä¹û/
+N	java:S106y"9Replace this use of System.out or System.err by a logger.(á¯ôş
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ØŠ‡ä
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(ØŠ‡ä
+U	java:S106"9Replace this use of System.out or System.err by a logger.(á¯ôş8í“Å¹û/
+e
+java:S11921"ODefine a constant instead of duplicating this literal "Stack is empty" 4 times.(á´¡À
+f
+java:S1192m"PDefine a constant instead of duplicating this literal "Top of stack = " 3 times.(¿³€·
+0
+java:S1220""Move this file to a named package.
